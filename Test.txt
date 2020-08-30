@@ -1,1 +1,1 @@
-Este es mi archivo de prueba en Git cambiado
+Este es mi archivo de prueba en Git..
